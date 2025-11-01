@@ -10,7 +10,7 @@ app.use(cors());
 app.use(express.json());
 
 // TMDB API - Replace with your real key
-const TMDB_API_KEY = '1f54bd990f1cdfb230adb312546d765d'; // ← REPLACE WITH YOUR REAL KEY
+const TMDB_API_KEY = '8cc93a5173b66fbfa5e361fbc65a4c87'; // ← REPLACE WITH YOUR REAL KEY
 const TMDB_BASE_URL = 'https://api.themoviedb.org/3';
 
 // Test TMDB connection
